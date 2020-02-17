@@ -1,0 +1,8 @@
+Dell Precision T3420 SFF
+PSU 92% efficient
+CPU Core i5 7400 CPU 3.0 GHz to 3.5GHz quad core, Kaby Lake
+RAM 16GB DDR4 2400
+SSD Samsung 500GB SATA3 860 EVO
+GPU NVIDIA K620 GPU 2GB
+OS  Windows 10 Pro
+
