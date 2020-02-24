@@ -1,6 +1,7 @@
 // hello.c
 // basic hello world stuff 
 // jamieson olsen
+// another new comment added!
 
 #include <stdio.h>
     
