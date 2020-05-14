@@ -8,6 +8,7 @@
 int main() 
 {
   printf("Hello, World!");
+  printf("This is a new test feature!");
   return 0;
 }
 	
